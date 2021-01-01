@@ -9,3 +9,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linonetwo&layout=compact&langs_count=10" alt="Languages" height="183">
   </p>
 </a>
+
+Knowledge Base (In Chinese): https://onetwo.ren/wiki/
+
+Working On: 
+
+1. Refactor https://github.com/tiddly-gittly/TiddlyGit-Desktop to TypeScript
+1. Write world generation in https://github.com/linonetwo/Rising-of-the-Eternity
