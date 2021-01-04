@@ -16,3 +16,6 @@ Working On:
 
 1. Refactor https://github.com/tiddly-gittly/TiddlyGit-Desktop to TypeScript
 1. Write world generation in https://github.com/linonetwo/Rising-of-the-Eternity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
