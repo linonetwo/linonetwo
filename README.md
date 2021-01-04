@@ -30,19 +30,6 @@ Working On:
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-TiddlyGit-Desktop        17 hrs 6 mins       ████████████████░░░░░░░░░   64.55% 
-union-proxy              3 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.5% 
-style-studio-fe          2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.77% 
-pattern                  1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.01% 
-Cataclysm-DDA            45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.85%
-
-```
-
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/linonetwo/linonetwo/master/charts/bar_graph.png) 
