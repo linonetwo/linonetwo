@@ -26,11 +26,10 @@ My opensource activieies:
 
 ```text
 🐱‍💻 Projects: 
-TiddlyGit-Desktop        5 hrs 33 mins       █████████████████████████   99.52% 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 16/07/2021
+ Last Updated on 18/07/2021
 <!--END_SECTION:waka-->
