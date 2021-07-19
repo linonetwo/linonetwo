@@ -26,10 +26,12 @@ My opensource activieies:
 
 ```text
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+TiddlyWiki5              23 mins             █████████████░░░░░░░░░░░░   54.04% 
+TiddlyGit-Desktop        11 mins             ██████░░░░░░░░░░░░░░░░░░░   26.66% 
+CDDA-Kenan-Modpack-Chines8 mins              ████░░░░░░░░░░░░░░░░░░░░░   19.3%
 
 ```
 
 
- Last Updated on 18/07/2021
+ Last Updated on 19/07/2021
 <!--END_SECTION:waka-->
