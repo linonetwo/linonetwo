@@ -19,7 +19,7 @@ Working On:
 
 My opensource activieies:
 
-From 2021-07-20 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
+![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
