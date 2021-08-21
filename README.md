@@ -22,20 +22,20 @@ My opensource activieies:
 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-DarkDayArch              14 hrs 28 mins      ███████████████░░░░░░░░░░   61.27% 
-DarkDaysArch             2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.02% 
-TiddlyGit-Desktop        1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.05% 
-Unknown Project          1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.73% 
-git-sync-js              1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.15%
+DarkDayArch              15 hrs 6 mins       ████████████████░░░░░░░░░   64.89% 
+DarkDaysArch             2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.29% 
+TiddlyGit-Desktop        1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.07% 
+git-sync-js              1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.61% 
+react-pixi-fiber         1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.92%
 
 ```
 
 
- Last Updated on 20/08/2021
+ Last Updated on 21/08/2021
 <!--END_SECTION:waka-->
