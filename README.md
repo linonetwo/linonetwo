@@ -22,20 +22,20 @@ My opensource activieies:
 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-DarkDaysArch             10 hrs 32 mins      ███████████████████░░░░░░   75.97% 
-cdda_more_magiclysm      1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.1% 
-TiddlyWiki-Chinese-Tutori1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.92% 
-TiddlyGit-Desktop        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54% 
-Kenan-Modpack-Chinese    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
+DarkDaysArch             6 hrs 10 mins       ████████████░░░░░░░░░░░░░   48.98% 
+TiddlyGit-Desktop        2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.33% 
+cdda_more_magiclysm      1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+TiddlyWiki-Chinese-Tutori1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.03% 
+wiki                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.55%
 
 ```
 
 
- Last Updated on 08/09/2021
+ Last Updated on 09/09/2021
 <!--END_SECTION:waka-->
