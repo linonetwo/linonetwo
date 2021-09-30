@@ -31,10 +31,11 @@ My opensource activieies:
 plugins                  20 mins             ██████████░░░░░░░░░░░░░░░   41.75% 
 Unknown Project          16 mins             ████████░░░░░░░░░░░░░░░░░   33.04% 
 wiki                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.41% 
-TiddlyGit-Desktop        5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.81%
+TiddlyGit-Desktop        5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.81% 
+DarkDaysArch             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 
 
- Last Updated on 29/09/2021
+ Last Updated on 30/09/2021
 <!--END_SECTION:waka-->
