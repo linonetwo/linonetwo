@@ -22,18 +22,18 @@ My opensource activieies:
 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-DarkDaysArch             1 hr 4 mins         █████████████░░░░░░░░░░░░   55.19% 
-Unknown Project          39 mins             ████████░░░░░░░░░░░░░░░░░   33.53% 
-TiddlyGit-Desktop        13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.27%
+TiddlyGit-Desktop        2 hrs 34 mins       ███████████████████░░░░░░   78.81% 
+Unknown Project          23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.14% 
+git-sync-js              17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.05%
 
 ```
 
 
- Last Updated on 01/12/2021
+ Last Updated on 06/12/2021
 <!--END_SECTION:waka-->
