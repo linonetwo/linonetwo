@@ -14,8 +14,8 @@ Knowledge Base (In Chinese): https://onetwo.ren/wiki/
 
 Working On: 
 
-1. Maintain a knowledge base app https://github.com/tiddly-gittly/TiddlyGit-Desktop
-1. Writing the CataclysmDDA map editor app https://github.com/linonetwo/DarkDaysArch (bootstraping, not public yet)
+1. Maintain a knowledge base app https://github.com/tiddly-gittly/TidGi-Desktop
+1. Prototyping many KM tools using tw as a rapid prototype platform https://github.com/linonetwo/tiddlywiki-plugins
 
 My opensource activieies:
 
