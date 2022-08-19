@@ -22,7 +22,7 @@ My opensource activieies:
 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-309%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-798%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -30,13 +30,12 @@ My opensource activieies:
 
 ```text
 🐱‍💻 Projects: 
-pattern-endcard          23 mins             ████████████████░░░░░░░░░   65.23% 
-pattern-dynamic          7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.35% 
-TiddlyGit-Desktop        4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.42% 
+pattern-dynamic          59 mins             ██████████████████░░░░░░░   71.81% 
+pattern-endcard          23 mins             ███████░░░░░░░░░░░░░░░░░░   28.19% 
 pattern-mono             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 
 
- Last Updated on 18/08/2022 02:37:43 UTC
+ Last Updated on 19/08/2022 02:24:15 UTC
 <!--END_SECTION:waka-->
