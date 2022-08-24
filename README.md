@@ -22,7 +22,7 @@ My opensource activieies:
 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C179%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C181%20hrs%2036%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -30,14 +30,14 @@ My opensource activieies:
 
 ```text
 🐱‍💻 Projects: 
-slate-write              5 hrs 54 mins       ████████████████████░░░░░   82.84% 
-pattern-dynamic          1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   14.33% 
-plate                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.55% 
-TW5-Typed                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.62% 
-tw-mobile-sync           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52%
+slate-write              8 hrs 55 mins       █████████████████████░░░░   85.55% 
+pattern-dynamic          1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   9.8% 
+style-studio-fe          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.2% 
+plate                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.41% 
+TW5-Typed                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59%
 
 ```
 
 
- Last Updated on 23/08/2022 02:31:30 UTC
+ Last Updated on 24/08/2022 02:24:22 UTC
 <!--END_SECTION:waka-->
