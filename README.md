@@ -26,14 +26,6 @@ My opensource activieies:
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 14/09/2022 02:46:40 UTC
+ Last Updated on 15/09/2022 02:57:49 UTC
 <!--END_SECTION:waka-->
