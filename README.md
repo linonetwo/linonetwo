@@ -22,10 +22,21 @@ My opensource activieies:
 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C193%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C194%20hrs%2058%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 15/09/2022 02:57:49 UTC
+```text
+🐱‍💻 Projects: 
+pattern-mono             58 mins             ███████████░░░░░░░░░░░░░░   47.11% 
+PaddleNLP                40 mins             ████████░░░░░░░░░░░░░░░░░   32.67% 
+Unknown Project          23 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.03% 
+pattern-dynamic          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.2%
+
+```
+
+
+ Last Updated on 16/09/2022 02:57:20 UTC
 <!--END_SECTION:waka-->
