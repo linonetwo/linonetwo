@@ -22,7 +22,7 @@ My opensource activieies:
 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C202%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C205%20hrs%2044%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -30,7 +30,7 @@ My opensource activieies:
 
 ```text
 🐱‍💻 Projects: 
-slate-write              3 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   35.49% 
+slate-write              3 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   35.48% 
 TiddlyGit-Desktop        2 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   24.17% 
 js-sdk-toolchain         1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
 tiddlywiki-plugins       37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.32% 
@@ -39,5 +39,5 @@ plugins                  31 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 27/09/2022 02:44:34 UTC
+ Last Updated on 28/09/2022 02:30:53 UTC
 <!--END_SECTION:waka-->
