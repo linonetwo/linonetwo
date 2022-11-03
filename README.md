@@ -22,7 +22,7 @@ My opensource activieies:
 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C223%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C225%20hrs%2045%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -30,14 +30,14 @@ My opensource activieies:
 
 ```text
 🐱‍💻 Projects: 
-dewo                     10 hrs 3 mins       ███████████████████████░░   91.57% 
-pattern-dynamic          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.69% 
-pattern-mono             16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.58% 
-union-config-fe          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.71% 
-style-studio-fe          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
+dewo                     10 hrs 32 mins      █████████████████████████   99.67% 
+style-studio-fe          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21% 
+tiddlywiki-plugins       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06% 
+TiddlyGit-Desktop        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03% 
+TW5-Typed                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 ```
 
 
- Last Updated on 02/11/2022 02:38:03 UTC
+ Last Updated on 03/11/2022 02:13:51 UTC
 <!--END_SECTION:waka-->
