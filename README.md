@@ -22,7 +22,7 @@ My opensource activieies:
 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C231%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C232%20hrs%2044%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -30,13 +30,13 @@ My opensource activieies:
 
 ```text
 🐱‍💻 Projects: 
-style-studio-fe          1 hr 2 mins         █████████████░░░░░░░░░░░░   54.48% 
-dewo                     36 mins             ████████░░░░░░░░░░░░░░░░░   31.63% 
-plugins                  9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.6% 
-google-calendar-import   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.29%
+style-studio-fe          1 hr 2 mins         █████████████░░░░░░░░░░░░   55.14% 
+dewo                     34 mins             ███████░░░░░░░░░░░░░░░░░░   30.8% 
+plugins                  9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.71% 
+google-calendar-import   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.36%
 
 ```
 
 
- Last Updated on 12/11/2022 02:02:09 UTC
+ Last Updated on 13/11/2022 02:06:16 UTC
 <!--END_SECTION:waka-->
