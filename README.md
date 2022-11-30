@@ -22,7 +22,7 @@ My opensource activieies:
 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C261%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C268%20hrs%206%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -30,14 +30,14 @@ My opensource activieies:
 
 ```text
 🐱‍💻 Projects: 
-tiddlywiki-whiteboard    12 hrs 13 mins      ███████████░░░░░░░░░░░░░░   46.8% 
-TiddlyGit-Desktop        7 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   28.83% 
-tiddlywiki-plugins       1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.75% 
-calendar-hour            54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.5% 
-tldraw                   50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.2%
+tiddlywiki-whiteboard    20 hrs 49 mins      ███████████████░░░░░░░░░░   61.65% 
+TiddlyGit-Desktop        7 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   22.3% 
+tiddlywiki-plugins       1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.22% 
+tldraw                   52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61% 
+blocksuite               43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
 
 ```
 
 
- Last Updated on 29/11/2022 01:49:08 UTC
+ Last Updated on 30/11/2022 01:49:40 UTC
 <!--END_SECTION:waka-->
