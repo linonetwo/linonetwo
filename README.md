@@ -15,9 +15,9 @@ Knowledge Base (In Chinese): https://onetwo.ren/wiki/
 Working On: 
 
 1. Maintain a knowledge base app https://github.com/tiddly-gittly/TidGi-Desktop
-1. Prototyping many KM tools using tw as a rapid prototype platform https://github.com/linonetwo/tiddlywiki-plugins
+1. Prototyping many KM tools using tw as a rapid prototype platform https://github.com/tiddly-gittly
 
-My opensource activieies:
+My opensource activieies （including wiki update):
 
 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
