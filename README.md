@@ -22,7 +22,7 @@ My opensource activieies （including wiki update):
 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C309%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C311%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -30,14 +30,14 @@ My opensource activieies （including wiki update):
 
 ```text
 🐱‍💻 Projects: 
-tiddlywiki-calendar      17 hrs 11 mins      ██████████░░░░░░░░░░░░░░░   39.93% 
-tiddlywiki-whiteboard    15 hrs 2 mins       ████████░░░░░░░░░░░░░░░░░   34.93% 
-TiddlyWiki5              4 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.93% 
-ical-calendar-importer   2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.82% 
-slate-write              49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.93%
+tiddlywiki-calendar      19 hrs 53 mins      ████████████░░░░░░░░░░░░░   50.04% 
+tiddlywiki-whiteboard    6 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.24% 
+TiddlyWiki5              4 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.99% 
+ical-calendar-importer   4 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.32% 
+slate-write              49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.06%
 
 ```
 
 
- Last Updated on 06/12/2022 01:40:13 UTC
+ Last Updated on 07/12/2022 01:39:37 UTC
 <!--END_SECTION:waka-->
