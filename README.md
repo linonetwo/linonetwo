@@ -22,7 +22,7 @@ My opensource activieies （including wiki update):
 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C394%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C403%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -30,14 +30,14 @@ My opensource activieies （including wiki update):
 
 ```text
 🐱‍💻 Projects: 
-devclient                19 hrs 10 mins      ██████████░░░░░░░░░░░░░░░   40.78% 
-TiddlyGit-Desktop        4 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.07% 
-TiddlyWiki5              3 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.37% 
-OctoBase                 3 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.49% 
-AFFiNE                   3 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.76%
+devclient                14 hrs 32 mins      █████████░░░░░░░░░░░░░░░░   37.27% 
+OctoBase                 4 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.75% 
+TiddlyWiki5              3 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.09% 
+TiddlyGit-Desktop        3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.94% 
+blocksuite               2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.93%
 
 ```
 
 
- Last Updated on 26/12/2022 01:38:18 UTC
+ Last Updated on 27/12/2022 01:31:47 UTC
 <!--END_SECTION:waka-->
