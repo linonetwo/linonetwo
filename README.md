@@ -22,7 +22,7 @@ My opensource activieies （including wiki update):
 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C466%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C470%20hrs%2029%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -30,14 +30,14 @@ My opensource activieies （including wiki update):
 
 ```text
 🐱‍💻 Projects: 
-AFFiNE                   16 hrs 21 mins      █████████░░░░░░░░░░░░░░░░   35.93% 
-OctoBase                 9 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   20.96% 
-tiddlywiki-calendar      6 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.69% 
-tw-mobile-sync           4 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.56% 
-mobile-imessage-layout   4 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.47%
+AFFiNE                   17 hrs 27 mins      █████████░░░░░░░░░░░░░░░░   36.02% 
+OctoBase                 9 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.54% 
+tiddlywiki-calendar      6 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.17% 
+tw-mobile-sync           4 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.98% 
+mobile-imessage-layout   4 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.9%
 
 ```
 
 
- Last Updated on 12/01/2023 01:45:45 UTC
+ Last Updated on 13/01/2023 01:46:42 UTC
 <!--END_SECTION:waka-->
