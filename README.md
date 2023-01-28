@@ -30,11 +30,10 @@ My opensource activieies （including wiki update):
 
 ```text
 🐱‍💻 Projects: 
-AFFiNE                   29 mins             █████████████░░░░░░░░░░░░   54.03% 
-src-OctoBase             25 mins             ███████████░░░░░░░░░░░░░░   45.97%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 26/01/2023 01:36:23 UTC
+ Last Updated on 28/01/2023 01:36:20 UTC
 <!--END_SECTION:waka-->
