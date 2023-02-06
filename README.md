@@ -22,7 +22,7 @@ My opensource activieies （including wiki update):
 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C506%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C508%20hrs%2026%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -30,14 +30,14 @@ My opensource activieies （including wiki update):
 
 ```text
 🐱‍💻 Projects: 
-AFFiNE                   13 hrs 17 mins      ████████████████░░░░░░░░░   65.33% 
-OctoBase                 2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.08% 
-template-list            1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.64% 
-itonnote-theme           1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   4.92% 
-src-OctoBase             49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.06%
+AFFiNE                   13 hrs 17 mins      ██████████████░░░░░░░░░░░   59.45% 
+OctoBase                 2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.17% 
+flow-chart               2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   9.01% 
+template-list            1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.14% 
+itonnote-theme           1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   4.48%
 
 ```
 
 
- Last Updated on 05/02/2023 01:49:14 UTC
+ Last Updated on 06/02/2023 01:39:10 UTC
 <!--END_SECTION:waka-->
