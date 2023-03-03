@@ -22,7 +22,7 @@ My opensource activieies （including wiki update):
 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C597%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C598%20hrs%2014%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-33.8%20million%20lines%20of%20code-blue)
 
@@ -30,13 +30,13 @@ My opensource activieies （including wiki update):
 
 ```text
 🐱‍💻 Projects: 
-demo                     2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-AFFiNE                   2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-flow-chart               1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-ChatRWKV                 1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-qq-bot                   1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+AFFiNE                   2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+flow-chart               1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+ChatRWKV                 1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+qq-bot                   1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+demo                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
 ```
 
 
- Last Updated on 02/03/2023 01:44:03 UTC
+ Last Updated on 03/03/2023 03:26:55 UTC
 <!--END_SECTION:waka-->
