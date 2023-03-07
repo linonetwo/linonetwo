@@ -22,7 +22,7 @@ My opensource activieies （including wiki update):
 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C604%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C609%20hrs%2041%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-33.8%20million%20lines%20of%20code-blue)
 
@@ -30,13 +30,13 @@ My opensource activieies （including wiki update):
 
 ```text
 🐱‍💻 Projects: 
-lol                      3 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
-in-tagtree-of            2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-TiddlyWiki5              1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-qq-bot                   1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-wiki                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+lol                      3 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   27.02 % 
+in-tagtree-of            2 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+wiki                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+TiddlyWiki5              1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+qq-bot                   52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
 ```
 
 
- Last Updated on 06/03/2023 01:31:46 UTC
+ Last Updated on 07/03/2023 01:45:01 UTC
 <!--END_SECTION:waka-->
