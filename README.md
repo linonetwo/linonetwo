@@ -22,21 +22,21 @@ My opensource activieies （including wiki update):
 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C611%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C611%20hrs%2026%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-33.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43.8%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-lol                      3 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   37.20 % 
-in-tagtree-of            57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-plugins                  49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-speech-synthesis         40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-TiddlyWiki5              27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+lol                      3 hrs 10 mins       ███████████░░░░░░░░░░░░░░   43.24 % 
+plugins                  49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+speech-synthesis         40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+CDDA-Kenan-Modpack-Chines26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+in-tagtree-of            24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
 ```
 
 
- Last Updated on 11/03/2023 01:21:46 UTC
+ Last Updated on 12/03/2023 01:48:37 UTC
 <!--END_SECTION:waka-->
