@@ -22,21 +22,21 @@ My opensource activieies （including wiki update):
 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C615%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C616%20hrs%207%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-44.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-44.6%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-qq-bot                   3 hrs 11 mins       █████████████████░░░░░░░░   67.61 % 
-TiddlyWiki-CPL           26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-rubick-system-super-panel25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-ComfyUI                  19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-stable-diffusion-webui   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+qq-bot                   3 hrs 11 mins       ████████████░░░░░░░░░░░░░   49.54 % 
+stable-diffusion-webui   1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
+TiddlyWiki-CPL           44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+ComfyUI                  33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+rubick-system-super-panel25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
 ```
 
 
- Last Updated on 17/03/2023 01:32:18 UTC
+ Last Updated on 18/03/2023 01:32:10 UTC
 <!--END_SECTION:waka-->
