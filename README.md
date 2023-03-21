@@ -22,7 +22,7 @@ My opensource activieies （including wiki update):
 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C618%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C619%20hrs%208%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-44.7%20million%20lines%20of%20code-blue)
 
@@ -30,13 +30,13 @@ My opensource activieies （including wiki update):
 
 ```text
 🐱‍💻 Projects: 
-qq-bot                   3 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   41.78 % 
-stable-diffusion-webui   1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
-langchainjs              45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-TiddlyWiki-CPL           44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-ComfyUI                  33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+langchain-alpaca         3 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   40.55 % 
+stable-diffusion-webui   1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+qq-bot                   50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+langchainjs              50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+TiddlyWiki-CPL           34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
 ```
 
 
- Last Updated on 20/03/2023 01:38:52 UTC
+ Last Updated on 21/03/2023 01:28:14 UTC
 <!--END_SECTION:waka-->
