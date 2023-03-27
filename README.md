@@ -22,7 +22,7 @@ My opensource activieies （including wiki update):
 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C638%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C639%20hrs%2019%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46.5%20million%20lines%20of%20code-blue)
 
@@ -30,13 +30,13 @@ My opensource activieies （including wiki update):
 
 ```text
 🐱‍💻 Projects: 
-langchain-alpaca         16 hrs 20 mins      ███████████████████░░░░░░   76.18 % 
-langflow                 1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-langchainjs              1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-test                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-chatgpt-retrieval-plugin 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+langchain-alpaca         16 hrs 27 mins      ██████████████████░░░░░░░   70.51 % 
+memeloop                 2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+langflow                 1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+test                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+chatgpt-retrieval-plugin 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 ```
 
 
- Last Updated on 25/03/2023 01:36:02 UTC
+ Last Updated on 27/03/2023 01:40:57 UTC
 <!--END_SECTION:waka-->
