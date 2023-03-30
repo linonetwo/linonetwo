@@ -22,21 +22,21 @@ My opensource activieies （including wiki update):
 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C649%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C651%20hrs%2028%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46.5%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-memeloop                 9 hrs 56 mins       ████████████░░░░░░░░░░░░░   46.21 % 
-langchain-alpaca         6 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   28.75 % 
-langflow                 1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-langchain                53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-test                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+memeloop                 13 hrs 30 mins      ████████████████████░░░░░   78.39 % 
+langchain                53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+qq-bot                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+langflow                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+chatgpt-retrieval-plugin 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 ```
 
 
- Last Updated on 29/03/2023 01:46:05 UTC
+ Last Updated on 30/03/2023 01:40:07 UTC
 <!--END_SECTION:waka-->
