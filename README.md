@@ -22,21 +22,21 @@ My opensource activieies （including wiki update):
 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C656%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C656%20hrs%2047%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46.4%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-memeloop                 14 hrs 31 mins      █████████████████████░░░░   83.12 % 
-langchain                53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-qq-bot                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-WasmEdge                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-langchainjs              22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+memeloop                 15 hrs 18 mins      ████████████████████░░░░░   81.71 % 
+langchain                53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+qq-bot                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+WasmEdge                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+langchainjs              22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 ```
 
 
- Last Updated on 01/04/2023 01:38:53 UTC
+ Last Updated on 02/04/2023 01:39:23 UTC
 <!--END_SECTION:waka-->
