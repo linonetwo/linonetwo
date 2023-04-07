@@ -24,19 +24,19 @@ My opensource activieies （including wiki update):
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C658%20hrs%206%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46.8%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-memeloop                 1 hr 48 mins        ████████████████░░░░░░░░░   62.47 % 
-WasmEdge                 33 mins             █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-wiki                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-TiddlyWiki-Chinese-Tutori7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-settings                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+memeloop                 51 mins             ██████████████░░░░░░░░░░░   54.48 % 
+wiki                     20 mins             █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
+WasmEdge                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+TiddlyWiki-Chinese-Tutori7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+settings                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 ```
 
 
- Last Updated on 06/04/2023 01:34:12 UTC
+ Last Updated on 07/04/2023 01:30:55 UTC
 <!--END_SECTION:waka-->
