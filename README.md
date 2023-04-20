@@ -22,21 +22,21 @@ My opensource activieies （including wiki update):
 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C686%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C686%20hrs%2058%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-47.0%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-memeloop                 20 hrs 26 mins      ████████████████████░░░░░   80.09 % 
-TW5-CodeMirror-Enhanced  2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-slate-write              46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-HugeWikiExample          43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-tw-echarts               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+memeloop                 19 hrs 21 mins      ████████████████████░░░░░   79.88 % 
+TW5-CodeMirror-Enhanced  2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+slate-write              46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+HugeWikiExample          43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+tw-echarts               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 ```
 
 
- Last Updated on 19/04/2023 01:37:58 UTC
+ Last Updated on 20/04/2023 01:34:23 UTC
 <!--END_SECTION:waka-->
