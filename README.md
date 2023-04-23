@@ -22,21 +22,21 @@ My opensource activieies （including wiki update):
 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C689%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C691%20hrs%2042%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-47.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-47.2%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-memeloop                 9 hrs 10 mins       ██████████████████░░░░░░░   72.87 % 
-ChatRWKV                 1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-Unknown Project          50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-slate-write              35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-ChatGLM-6B               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+memeloop                 7 hrs 20 mins       ██████████████████░░░░░░░   71.99 % 
+ChatRWKV                 1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Unknown Project          50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+ChatGLM-6B               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+wiki                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 ```
 
 
- Last Updated on 22/04/2023 01:36:38 UTC
+ Last Updated on 23/04/2023 01:44:07 UTC
 <!--END_SECTION:waka-->
