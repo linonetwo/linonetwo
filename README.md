@@ -22,7 +22,7 @@ My opensource activieies （including wiki update):
 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C700%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C702%20hrs%2025%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-47.0%20million%20lines%20of%20code-blue)
 
@@ -30,13 +30,13 @@ My opensource activieies （including wiki update):
 
 ```text
 🐱‍💻 Projects: 
-my-pytorch-dockerfiles   5 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   40.93 % 
-memeloop                 4 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   32.72 % 
-Unknown Project          49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-ChatRWKV                 49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-MOSS-DockerFile          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+my-pytorch-dockerfiles   5 hrs 6 mins        ████████████░░░░░░░░░░░░░   47.26 % 
+memeloop                 3 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   32.78 % 
+MOSS-DockerFile          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+ChatRWKV                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+MOSS                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 ```
 
 
- Last Updated on 28/04/2023 01:37:25 UTC
+ Last Updated on 29/04/2023 01:36:08 UTC
 <!--END_SECTION:waka-->
