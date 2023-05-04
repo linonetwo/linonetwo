@@ -22,21 +22,21 @@ My opensource activieies （including wiki update):
 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C706%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C709%20hrs%2017%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-47.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-47.1%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-memeloop                 10 hrs 18 mins      ██████████████████░░░░░░░   70.55 % 
-my-pytorch-dockerfiles   3 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
-MOSS-DockerFile          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-MOSS                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-TiddlyWiki5              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+memeloop                 14 hrs 16 mins      ████████████████████████░   95.08 % 
+MOSS-DockerFile          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+TiddlyWiki5              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+TiddlyGit-Desktop        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+MOSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 
- Last Updated on 03/05/2023 01:36:41 UTC
+ Last Updated on 04/05/2023 01:35:57 UTC
 <!--END_SECTION:waka-->
