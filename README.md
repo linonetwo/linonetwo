@@ -24,17 +24,16 @@ My opensource activieies （including wiki update):
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C716%20hrs%2015%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-47.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-47.0%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-memeloop                 13 hrs 41 mins      █████████████████████████   99.60 % 
-TiddlyGit-Desktop        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-ChatRWKV                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+memeloop                 13 hrs 52 mins      █████████████████████████   99.64 % 
+TiddlyGit-Desktop        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
 
 
- Last Updated on 06/05/2023 01:32:42 UTC
+ Last Updated on 07/05/2023 01:42:39 UTC
 <!--END_SECTION:waka-->
