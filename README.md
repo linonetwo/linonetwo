@@ -22,19 +22,20 @@ My opensource activieies （including wiki update):
 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C717%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C717%20hrs%2035%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-47.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-47.2%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-memeloop                 1 hr 49 mins        ████████████████████░░░░░   81.48 % 
-TiddlyWiki-CPL           13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-qq-bot                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+memeloop                 54 mins             █████████████████░░░░░░░░   67.44 % 
+TiddlyWiki-CPL           13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+qq-bot                   11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+wiki                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 ```
 
 
- Last Updated on 11/05/2023 01:37:30 UTC
+ Last Updated on 12/05/2023 01:37:48 UTC
 <!--END_SECTION:waka-->
