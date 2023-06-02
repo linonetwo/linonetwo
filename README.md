@@ -22,21 +22,21 @@ My opensource activieies （including wiki update):
 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C813%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C815%20hrs%2049%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-47.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-47.5%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-tiddlywiki-calendar      10 hrs 55 mins      ████████░░░░░░░░░░░░░░░░░   31.76 % 
-intention-tower-knowledge8 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   26.12 % 
-TiddlyGit-Desktop        4 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-demo                     3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-tiddlywiki-whiteboard    2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+tiddlywiki-calendar      10 hrs 55 mins      ████████░░░░░░░░░░░░░░░░░   30.71 % 
+intention-tower-knowledge7 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
+TiddlyGit-Desktop        5 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+demo                     3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+tiddlywiki-whiteboard    2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
 ```
 
 
- Last Updated on 01/06/2023 02:38:52 UTC
+ Last Updated on 02/06/2023 02:22:43 UTC
 <!--END_SECTION:waka-->
