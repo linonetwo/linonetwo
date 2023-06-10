@@ -22,21 +22,21 @@ My opensource activieies （including wiki update):
 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C832%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C835%20hrs%2047%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48.5%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-TiddlyGit-Desktop        8 hrs 38 mins       █████████████░░░░░░░░░░░░   52.38 % 
-guidance                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-TiddlyWiki-TS-Plugin-Temp1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-tw-mobile-sync           56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-memeloop                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+TiddlyGit-Desktop        14 hrs 24 mins      ████████████████░░░░░░░░░   65.00 % 
+guidance                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+TiddlyWiki-TS-Plugin-Temp1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+tw-mobile-sync           56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+memeloop                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 ```
 
 
- Last Updated on 09/06/2023 02:21:39 UTC
+ Last Updated on 10/06/2023 02:07:19 UTC
 <!--END_SECTION:waka-->
