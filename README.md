@@ -22,21 +22,21 @@ My opensource activieies （including wiki update):
 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C865%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C874%20hrs%2024%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50.1%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-TiddlyGit-Desktop        11 hrs 24 mins      █████████░░░░░░░░░░░░░░░░   35.26 % 
-memeloop                 7 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
-watch-fs                 3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-wikiast                  2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-TiddlyWiki5              2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+TiddlyGit-Desktop        14 hrs 26 mins      ███████████░░░░░░░░░░░░░░   42.13 % 
+memeloop                 7 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+watch-fs                 3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+TiddlyWiki5              2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+wikiast                  2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
 ```
 
 
- Last Updated on 17/06/2023 02:07:47 UTC
+ Last Updated on 18/06/2023 02:40:01 UTC
 <!--END_SECTION:waka-->
