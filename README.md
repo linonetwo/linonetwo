@@ -22,7 +22,7 @@ My opensource activieies （including wiki update):
 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C946%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C949%20hrs%202%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56.9%20million%20lines%20of%20code-blue)
 
@@ -30,13 +30,13 @@ My opensource activieies （including wiki update):
 
 ```text
 🐱‍💻 Projects: 
-slate-write              10 hrs 26 mins      ████████░░░░░░░░░░░░░░░░░   31.21 % 
-TiddlyGit-Desktop        5 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-wikiast                  4 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-TidGi-external-attachment2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-plate                    2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+slate-write              10 hrs 26 mins      ██████████░░░░░░░░░░░░░░░   39.63 % 
+wikiast                  4 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+plate                    2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+tw-react                 1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+TidGi-external-attachment1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 ```
 
 
- Last Updated on 30/06/2023 02:33:34 UTC
+ Last Updated on 01/07/2023 02:50:38 UTC
 <!--END_SECTION:waka-->
