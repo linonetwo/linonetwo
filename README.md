@@ -22,21 +22,21 @@ My opensource activieies （including wiki update):
 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C974%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C979%20hrs%2049%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-57.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-57.6%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-TiddlyGit-Desktop        20 hrs 32 mins      ██████████████████░░░░░░░   72.13 % 
-qq-bot                   2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-electron-ipc-cat         2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-zx-script                54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-flyde                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+TiddlyGit-Desktop        29 hrs 10 mins      ██████████████████░░░░░░░   71.77 % 
+noflo-ui                 2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+electron-ipc-cat         2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+qq-bot                   1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+zx-script                54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 ```
 
 
- Last Updated on 09/07/2023 02:53:38 UTC
+ Last Updated on 11/07/2023 02:43:01 UTC
 <!--END_SECTION:waka-->
