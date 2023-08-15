@@ -22,21 +22,21 @@ My opensource activieies （including wiki update):
 ![](https://visitor-badge.glitch.me/badge?page_id=linonetwo.linonetwo)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C061%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C083%20hrs%2041%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-58.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-59.0%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-slate-write              1 hr 21 mins        ████████████░░░░░░░░░░░░░   48.08 % 
-wikiast                  25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-qq-bot                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-plate                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-TiddlyGit-Desktop        13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+TiddlyGit-Desktop        8 hrs 40 mins       █████████████████████░░░░   85.30 % 
+noflo                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+fbp-graph                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+TiddlyWiki-CPL           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+noflo-ui                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 ```
 
 
- Last Updated on 04/08/2023 02:25:55 UTC
+ Last Updated on 15/08/2023 02:13:16 UTC
 <!--END_SECTION:waka-->
