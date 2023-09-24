@@ -1,6 +1,11 @@
 name: Statistics
 
 on:
+  push:
+    branches:
+      - master
+    paths:
+      - .github/workflows/
   workflow_dispatch:
   schedule:
     - cron: '0 0 * * *'
