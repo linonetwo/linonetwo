@@ -24,7 +24,9 @@ My opensource activieies （including wiki update):
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Batchfile    4 mins          █████████████████████░░░░   83.97 %
+TypeScript   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
+Other        0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
 ```
 
 <!--END_SECTION:waka-->
