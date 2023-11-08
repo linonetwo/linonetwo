@@ -24,7 +24,10 @@ My opensource activieies （including wiki update):
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Docker   16 mins         █████████████████▒░░░░░░░   69.06 %
+Python   3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
+INI      2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
+Other    2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
 ```
 
 <!--END_SECTION:waka-->
