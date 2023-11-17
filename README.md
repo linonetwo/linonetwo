@@ -24,11 +24,11 @@ My opensource activieies （including wiki update):
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    4 hrs 49 mins   ██████████▓░░░░░░░░░░░░░░   42.32 %
-C++           1 hr 49 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.99 %
-Python        1 hr 29 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
-Docker        46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
-INI           43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+TypeScript    4 hrs 49 mins   █████████████▒░░░░░░░░░░░   53.62 %
+C++           1 hr 37 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.16 %
+INI           30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+Python        29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+Objective-C   19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
 ```
 
 <!--END_SECTION:waka-->
