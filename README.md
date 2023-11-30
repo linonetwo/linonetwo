@@ -24,10 +24,10 @@ My opensource activieies （including wiki update):
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         1 hr 8 mins     ███████████████▒░░░░░░░░░   60.83 %
-Other        21 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.14 %
-Docker       12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
-TypeScript   10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
+YAML         1 hr 22 mins    ████████████████░░░░░░░░░   63.66 %
+Other        22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.01 %
+Docker       14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
+TypeScript   10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
 ```
 
 <!--END_SECTION:waka-->
