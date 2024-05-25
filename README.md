@@ -10,12 +10,14 @@
   </p>
 </a>
 
-Knowledge Base (In Chinese): https://onetwo.ren/wiki/
+Knowledge Base (In Chinese): https://wiki.onetwo.ren/
 
 Working On: 
 
+1. Building an auto mini-game generation platform (not published yet)
+1. Earning money with Rust, opensource some of my tools at https://github.com/ApricotTavern
 1. Maintain a knowledge base app https://github.com/tiddly-gittly/TidGi-Desktop
-1. Prototyping many KM tools using tw as a rapid prototype platform https://github.com/tiddly-gittly
+1. Prototyping many KM tools using Tiddlywiki as a rapid prototype platform https://github.com/tiddly-gittly
 
 My opensource activieies （including wiki update):
 
