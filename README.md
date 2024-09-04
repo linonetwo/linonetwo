@@ -26,11 +26,11 @@ My opensource activieies （including wiki update):
 <!--START_SECTION:waka-->
 
 ```txt
-tiddler      1 hr 31 mins    ████████████████████░░░░░   80.01 %
-Other        15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
-JSON         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-SSH Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Python       27 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.77 %
+tiddler      23 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.19 %
+Rust         20 mins         █████░░░░░░░░░░░░░░░░░░░░   19.58 %
+SSH Config   18 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.62 %
+Other        9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
 ```
 
 <!--END_SECTION:waka-->
