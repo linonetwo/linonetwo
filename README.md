@@ -26,11 +26,11 @@ My opensource activieies （including wiki update):
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   11 hrs 48 mins  █████████████░░░░░░░░░░░░   51.64 %
-JSON         3 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 %
-tiddler      2 hrs 40 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
-YAML         1 hr 43 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
-JavaScript   1 hr 26 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+TypeScript   11 hrs 17 mins  █████████████░░░░░░░░░░░░   51.52 %
+JavaScript   2 hrs 36 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.92 %
+tiddler      2 hrs 31 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
+JSON         2 hrs 22 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
+YAML         1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
 ```
 
 <!--END_SECTION:waka-->
