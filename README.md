@@ -24,8 +24,8 @@ My opensource activieies （including wiki update):
 <!--START_SECTION:waka-->
 
 ```txt
-Image (png)   3 mins          ████████████████████████▒   96.78 %
-tiddler       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+tiddler      21 mins         ████████████████░░░░░░░░░   64.26 %
+JavaScript   12 mins         █████████░░░░░░░░░░░░░░░░   35.74 %
 ```
 
 <!--END_SECTION:waka-->
