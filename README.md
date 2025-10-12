@@ -10,7 +10,7 @@
   </p>
 </a>
 
-Knowledge Base (In Chinese): https://wiki.onetwo.ren/
+Knowledge Base (In Chinese): https://wiki.onetwo.website/
 
 Working On: 
 
